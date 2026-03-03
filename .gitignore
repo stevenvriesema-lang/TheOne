@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Audio and temp
+*.wav
+*.mp3
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# pip
+pip-log.txt
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# Coverage
+.coverage
+htmlcov/
+
+# Others
+instance/
+

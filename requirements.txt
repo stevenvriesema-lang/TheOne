@@ -1,0 +1,7 @@
+aiohttp
+sounddevice
+numpy
+webrtcvad
+faster-whisper
+torch
+torchaudio
